@@ -1,5 +1,3 @@
-# OpenCV-Training-Face-Recognition-Deep-Computer-Vision
-
 # OpenCV Training – Face Recognition & Deep Computer Vision
 
 This repository contains my self-made training exercises and implementations using OpenCV and deep learning techniques for computer vision tasks.
